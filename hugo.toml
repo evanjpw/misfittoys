@@ -43,6 +43,12 @@ enableRobotsTXT = true
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
     fontawesome = true
+    favicon_16 = "favicon-16x16-airplane.png"
+    favicon_32 = "favicon-32x32-airplane.png"
+    favicon_apple = "apple-touch-icon.png"
+    favicon_android_192 = "android-chrome-192x192.png"
+    favicon_android_512 = "android-chrome-512x512.png"
+    #sss
 
   [params.homepage_meta_tags]
     meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."

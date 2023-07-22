@@ -1,0 +1,2 @@
+// TODO: Change head.html to deal with favicon, somehow
+// TODO: Add correct Apple & Android favicons
